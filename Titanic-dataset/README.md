@@ -1,7 +1,7 @@
-Depedent variable - Survival
+# Depedent variable - Survival
 
 
-# Variable Notes
+## Variable Notes
 
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
